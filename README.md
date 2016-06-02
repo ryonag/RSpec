@@ -1,2 +1,1 @@
-# board_plus
-added RSpec
+# added RSpec
