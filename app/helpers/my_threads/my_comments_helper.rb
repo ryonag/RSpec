@@ -1,0 +1,2 @@
+module MyThreads::MyCommentsHelper
+end
